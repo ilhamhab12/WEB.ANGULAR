@@ -1,0 +1,24 @@
+﻿<div style="margin-left:30px;width:500px">
+    <h3>List of Suppliers</h3>
+    {{message}}
+
+    <br />
+    <br />
+    <a href="#/AddSupplier" class="btn btn-primary">Add Supplier</a>
+    <br />
+    <br />
+    <table class="table table-bordered">
+        <tr>
+            <th>No</th>
+            <th>Name</th>
+            <th>Action</th>
+            <th>Action</th>
+        </tr>
+        <tr ng-repeat="supplier in listSuppliers">
+            <td>{{$index+1}}</td>
+            <td>{{supplier.Name}}</td>
+            <td><a href="#/EditSupplier/{{supplier.Id}}">Edit</a></td>
+            <td><a href="#/" ng-click="DeleteSupplier(supplier.Id,$index)">Delete</a></td>
+        </tr>
+    </table>
+</div>

@@ -1,0 +1,31 @@
+﻿<div style="margin-left:30px;width:700px">
+    <h3>List of Items</h3>
+    {{message}}
+
+    <br />
+    <br />
+    <a href="#/AddItem" class="btn btn-primary">Add Item</a>
+    <br />
+    <br />
+    <table class="table table-bordered">
+        <tr>
+            <th>No</th>
+            <th>Name</th>
+            <th>Stock</th>
+            <th>Price</th>
+            <th>Supplier</th>
+            <th>Action</th>
+        </tr>
+        <tr ng-repeat="item in listItems">
+            <td>{{$index+1}}</td>
+            <td>{{item.Name}}</td>
+            <td>{{item.Stock}}</td>
+            <td>{{item.Price}}</td>
+            <td>{{item.Suppliers.Name}}</td>
+            <td>
+                <a href="#/EditItem/{{item.Id}}">Edit</a> ||
+                <a href="#/" ng-click="DeleteItem(item.Id,$index)">Delete</a>
+            </td>
+        </tr>
+    </table>
+</div>
