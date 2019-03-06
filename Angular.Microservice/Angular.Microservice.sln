@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Angular.Microservice", "Angular.Microservice\Angular.Microservice.csproj", "{6B366C52-97B0-438E-A8B2-9F3E9401E921}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Angular.Microservice.BussinessLogic", "Angular.Microservice.BussinessLogic\Angular.Microservice.BussinessLogic.csproj", "{2DDFD3DD-9BB9-4DA2-A2CD-5461DF8784FC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Angular.Microservice.Common", "Angular.Microservice.Common\Angular.Microservice.Common.csproj", "{B1DAD95F-E55B-47A8-B1A8-2836CC1A285B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Angular.Microservice.Core", "Angular.Microservice.Core\Angular.Microservice.Core.csproj", "{6530BAC6-9FEA-4F46-B269-A7DFAA773606}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Angular.Microservice.DataAccess", "Angular.Microservice.DataAccess\Angular.Microservice.DataAccess.csproj", "{B39CAFC6-C19F-4868-B703-0146B0C47D09}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6B366C52-97B0-438E-A8B2-9F3E9401E921}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B366C52-97B0-438E-A8B2-9F3E9401E921}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B366C52-97B0-438E-A8B2-9F3E9401E921}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B366C52-97B0-438E-A8B2-9F3E9401E921}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2DDFD3DD-9BB9-4DA2-A2CD-5461DF8784FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DDFD3DD-9BB9-4DA2-A2CD-5461DF8784FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DDFD3DD-9BB9-4DA2-A2CD-5461DF8784FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DDFD3DD-9BB9-4DA2-A2CD-5461DF8784FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1DAD95F-E55B-47A8-B1A8-2836CC1A285B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1DAD95F-E55B-47A8-B1A8-2836CC1A285B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1DAD95F-E55B-47A8-B1A8-2836CC1A285B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1DAD95F-E55B-47A8-B1A8-2836CC1A285B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6530BAC6-9FEA-4F46-B269-A7DFAA773606}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6530BAC6-9FEA-4F46-B269-A7DFAA773606}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6530BAC6-9FEA-4F46-B269-A7DFAA773606}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6530BAC6-9FEA-4F46-B269-A7DFAA773606}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B39CAFC6-C19F-4868-B703-0146B0C47D09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B39CAFC6-C19F-4868-B703-0146B0C47D09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B39CAFC6-C19F-4868-B703-0146B0C47D09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B39CAFC6-C19F-4868-B703-0146B0C47D09}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

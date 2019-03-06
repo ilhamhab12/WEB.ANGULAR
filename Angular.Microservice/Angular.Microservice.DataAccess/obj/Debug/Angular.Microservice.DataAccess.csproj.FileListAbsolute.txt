@@ -1,0 +1,14 @@
+C:\Users\Habibie\Documents\Visual Studio 2015\Projects\Angular.Microservice\Angular.Microservice.DataAccess\bin\Debug\Angular.Microservice.DataAccess.exe.config
+C:\Users\Habibie\Documents\Visual Studio 2015\Projects\Angular.Microservice\Angular.Microservice.DataAccess\bin\Debug\Angular.Microservice.DataAccess.exe
+C:\Users\Habibie\Documents\Visual Studio 2015\Projects\Angular.Microservice\Angular.Microservice.DataAccess\bin\Debug\Angular.Microservice.DataAccess.pdb
+C:\Users\Habibie\Documents\Visual Studio 2015\Projects\Angular.Microservice\Angular.Microservice.DataAccess\bin\Debug\Angular.Microservice.Core.exe
+C:\Users\Habibie\Documents\Visual Studio 2015\Projects\Angular.Microservice\Angular.Microservice.DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\Habibie\Documents\Visual Studio 2015\Projects\Angular.Microservice\Angular.Microservice.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Habibie\Documents\Visual Studio 2015\Projects\Angular.Microservice\Angular.Microservice.DataAccess\bin\Debug\Angular.Microservice.Core.pdb
+C:\Users\Habibie\Documents\Visual Studio 2015\Projects\Angular.Microservice\Angular.Microservice.DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\Habibie\Documents\Visual Studio 2015\Projects\Angular.Microservice\Angular.Microservice.DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Habibie\Documents\Visual Studio 2015\Projects\Angular.Microservice\Angular.Microservice.DataAccess\obj\Debug\Angular.Microservice.DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\Habibie\Documents\Visual Studio 2015\Projects\Angular.Microservice\Angular.Microservice.DataAccess\obj\Debug\Angular.Microservice.DataAccess.Migrations.UpdateDatabaseAngular.resources
+C:\Users\Habibie\Documents\Visual Studio 2015\Projects\Angular.Microservice\Angular.Microservice.DataAccess\obj\Debug\Angular.Microservice.DataAccess.csproj.GenerateResource.Cache
+C:\Users\Habibie\Documents\Visual Studio 2015\Projects\Angular.Microservice\Angular.Microservice.DataAccess\obj\Debug\Angular.Microservice.DataAccess.exe
+C:\Users\Habibie\Documents\Visual Studio 2015\Projects\Angular.Microservice\Angular.Microservice.DataAccess\obj\Debug\Angular.Microservice.DataAccess.pdb

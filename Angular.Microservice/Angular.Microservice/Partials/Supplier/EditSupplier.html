@@ -1,0 +1,29 @@
+﻿<div style="margin-left:30px;width:300px;">
+    <h3>Edit Supplier</h3>
+    {{message}}
+
+    <form name="EditSupplierForm" ng-submit="UpdateSupplier();" class="form-group-sm">
+
+        <div class="form-group">
+            <label for="supplier.Name">Name</label>
+            <input type="text" class="form-control" ng-model="supplier.Name" required />
+        </div>
+        <div class="form-group">
+            <input type="submit" class="btn btn-success" value="Update" ng-disabled="EditSupplierForm.$invalid" />
+        </div>
+
+        <!--<table>
+            <tr>
+                <td>Name</td>
+                <td><input type="text" ng-model="supplier.Name" /></td>
+            </tr>
+            <tr>
+                <td colspan="2"><input type="submit" value="Update" /></td>
+            </tr>
+        </table>-->
+    </form>
+
+    <br />
+    <br />
+    <a href="#/" class="btn btn-primary">Back to Main</a>
+</div>

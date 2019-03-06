@@ -1,0 +1,14 @@
+C:\Users\Habibie\Documents\Visual Studio 2015\Projects\Angular.Microservice\Angular.Microservice.Common\bin\Debug\Angular.Microservice.Common.exe.config
+C:\Users\Habibie\Documents\Visual Studio 2015\Projects\Angular.Microservice\Angular.Microservice.Common\bin\Debug\Angular.Microservice.Common.exe
+C:\Users\Habibie\Documents\Visual Studio 2015\Projects\Angular.Microservice\Angular.Microservice.Common\bin\Debug\Angular.Microservice.Common.pdb
+C:\Users\Habibie\Documents\Visual Studio 2015\Projects\Angular.Microservice\Angular.Microservice.Common\bin\Debug\Angular.Microservice.Core.exe
+C:\Users\Habibie\Documents\Visual Studio 2015\Projects\Angular.Microservice\Angular.Microservice.Common\bin\Debug\Angular.Microservice.DataAccess.exe
+C:\Users\Habibie\Documents\Visual Studio 2015\Projects\Angular.Microservice\Angular.Microservice.Common\bin\Debug\EntityFramework.dll
+C:\Users\Habibie\Documents\Visual Studio 2015\Projects\Angular.Microservice\Angular.Microservice.Common\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Habibie\Documents\Visual Studio 2015\Projects\Angular.Microservice\Angular.Microservice.Common\bin\Debug\Angular.Microservice.Core.pdb
+C:\Users\Habibie\Documents\Visual Studio 2015\Projects\Angular.Microservice\Angular.Microservice.Common\bin\Debug\Angular.Microservice.DataAccess.pdb
+C:\Users\Habibie\Documents\Visual Studio 2015\Projects\Angular.Microservice\Angular.Microservice.Common\bin\Debug\EntityFramework.xml
+C:\Users\Habibie\Documents\Visual Studio 2015\Projects\Angular.Microservice\Angular.Microservice.Common\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Habibie\Documents\Visual Studio 2015\Projects\Angular.Microservice\Angular.Microservice.Common\obj\Debug\Angular.Microservice.Common.csprojResolveAssemblyReference.cache
+C:\Users\Habibie\Documents\Visual Studio 2015\Projects\Angular.Microservice\Angular.Microservice.Common\obj\Debug\Angular.Microservice.Common.exe
+C:\Users\Habibie\Documents\Visual Studio 2015\Projects\Angular.Microservice\Angular.Microservice.Common\obj\Debug\Angular.Microservice.Common.pdb
